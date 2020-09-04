@@ -1,0 +1,44 @@
+{
+  "success": true,
+  "message": "",
+  "Voyage": 21530,
+  "Vehicles": {
+    "discharged_list": [{
+      "type": "Plant",
+      "value": 2
+    },{
+      "type": "Car",
+      "value": 10
+    },{
+      "type": "Van",
+      "value": 8
+    }],
+    "total": 60,
+    "discharged": 20,
+    "not_discharged": 40
+  },
+  "Container": {
+    "discharged_list": [{
+      "type": "20",
+      "value": 11
+    }, {
+      "type": "40",
+      "value": 10
+    }],
+    "total": 53,
+    "discharged": 21,
+    "not_discharged": 32
+  },
+  "General": {
+    "discharged_list": [{
+      "type": "PROJECT CARGO",
+      "value": 7
+    }, {
+      "type": "REELS",
+      "value": 1
+    }],
+    "total": 8,
+    "discharged": 8,
+    "not_discharged": 0
+  }
+}
